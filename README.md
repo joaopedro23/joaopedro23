@@ -1,4 +1,6 @@
-# João Pedro Tavares Ferreira
+# João Pedro Tavares Ferreira 🖐🖐
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#6C3483&height=120&section=header"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaopedro)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedro105manairapb@gmail.com)
