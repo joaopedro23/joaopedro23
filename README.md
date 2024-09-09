@@ -70,9 +70,18 @@ _Conclusão em 2027_
 ## 💻 Projetos
 
 ### [📊 Análise Dashboard - CRM Hospital](https://github.com/joaopedro23/Analise_Dashboard---CRM-Hospital)
-Este projeto é um **Dashboard de Análise Clínica** desenvolvido para monitorar e analisar dados de clínicas hospitalares. 
-Utiliza **Python**, **Pandas**, **Dash** e **Plotly** para criar visualizações interativas e insights de dados como tempo de espera dos pacientes, pontuações de atendimento, e mais. 
-O objetivo é facilitar a tomada de decisões e melhorar a experiência do paciente.
+Este projeto é um **Dashboard de Análise Clínica** desenvolvido para monitorar e analisar dados de clínicas hospitalares. O objetivo é facilitar a tomada de decisões e melhorar a experiência do paciente.
+
+**Tecnologias Utilizadas:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-00BFFF?style=for-the-badge&logo=dash&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+Neste projeto, criei visualizações interativas para monitoramento de **tempo de espera de pacientes**, **pontuação de atendimento** e outros KPIs hospitalares.
+
 
 
 ## 🌍 Idiomas
