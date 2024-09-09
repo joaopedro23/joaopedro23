@@ -67,6 +67,14 @@ _Conclusão em 2027_
 - Kubernetes – Udemy
 - Processamento paralelo e distribuído de dados – Faculdade Ava
 
+## 💻 Projetos
+
+### [📊 Análise Dashboard - CRM Hospital](https://github.com/joaopedro23/Analise_Dashboard---CRM-Hospital)
+Este projeto é um **Dashboard de Análise Clínica** desenvolvido para monitorar e analisar dados de clínicas hospitalares. 
+Utiliza **Python**, **Pandas**, **Dash** e **Plotly** para criar visualizações interativas e insights de dados como tempo de espera dos pacientes, pontuações de atendimento, e mais. 
+O objetivo é facilitar a tomada de decisões e melhorar a experiência do paciente.
+
+
 ## 🌍 Idiomas
 
 - ![Inglês](https://img.shields.io/badge/Inglês-Intermediate-9cf?style=for-the-badge)
